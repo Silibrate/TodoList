@@ -1,0 +1,10 @@
+.actually__empty {
+  color: aliceblue;
+  text-shadow: 0 0 0.6rem #ffe6ff, 0 0 1.5rem #6800f1, -0.2rem 0.1rem 1rem #9b65ff, 0.2rem 0.1rem 1rem #f5c000, 0 -0.5rem 2rem #d4ff24, 0 0.5rem 3rem #e9ff24;
+  animation: shine 2s, flicker 3s infinite;
+  padding-bottom: 200px;
+  font-weight: bold;
+  font-size: 62px;
+  text-align: center;
+  margin: auto;
+}

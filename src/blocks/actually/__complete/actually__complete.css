@@ -1,0 +1,10 @@
+.actually__complete{
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  right: 6px;
+  background: aliceblue;
+  border-radius: 100%;
+  top: 64px;
+  cursor: pointer;
+}

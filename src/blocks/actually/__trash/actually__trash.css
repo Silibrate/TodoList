@@ -1,0 +1,7 @@
+.actually__trash{
+  cursor: pointer;
+  position: absolute;
+  max-height: 34px;
+  right: 10px;
+  top: 10px;
+}

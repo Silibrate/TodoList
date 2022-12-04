@@ -1,0 +1,9 @@
+.actually__text {
+  margin: 0;
+  margin-bottom: 20px;
+  color: aqua;
+  text-align: center;
+  font-size: 33px;
+  text-shadow: 0 0 5px white, 0 0 10px #00FFFF, 0 0 15px #7FFF00, 0 0 20px white;
+  word-break: break-all;
+}

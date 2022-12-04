@@ -1,0 +1,9 @@
+.popup__content{
+  background-color: #fff;
+  border-radius: 10px;
+  color: #000;
+  position: relative;
+  width: 430px;
+  background-image: url('../../../images/backgraund.gif');
+  background-size: cover;
+}

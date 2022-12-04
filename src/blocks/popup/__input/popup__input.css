@@ -1,0 +1,15 @@
+.popup__input {
+  background: none;
+  border: none;
+  font-weight: bold;
+  font-size: 32px;
+  margin-bottom: 45px;
+  text-align: center;
+  height: 40px;
+  color: #fff;
+  text-shadow: 0 0 10px red, 0 0 20px red, 0 0 30px red, 0 0 40px red;
+}
+
+.popup__input:focus-visible {
+  outline: 0;
+}

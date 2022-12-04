@@ -1,0 +1,9 @@
+.actually__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 114px;
+  align-items: center;
+  overflow: hidden;
+}

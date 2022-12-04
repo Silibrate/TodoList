@@ -1,0 +1,27 @@
+.actually {
+  position: relative;
+  max-width: 1440px;
+  margin: auto;
+  --angle: 0deg;
+  border: 5px solid;
+  border-image: linear-gradient(var(--angle), red, yellow, lime, aqua, blue, magenta) 1;
+  animation: 10s rotate linear infinite;
+  margin-bottom: 30px;
+}
+
+.actually:last-child {
+  margin-bottom: 0px;
+  margin-bottom: 200px;
+}
+
+@keyframes rotate {
+  to {
+    --angle: 360deg;
+  }
+}
+
+@property --angle {
+  syntax: '<angle>';
+  initial-value: 0deg;
+  inherits: false;
+}
